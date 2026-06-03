@@ -15,11 +15,14 @@ Understand customer purchasing patterns.
 Track monthly sales quantity trends.
 Evaluate payment method usage.
 Visualize sales distribution across cities.
+
 Key Metrics
 Total Sales: 769M
 Total Quantity Sold: 19K
 Total Transactions: 4K
 Average Sales Value: 40.11K
+
+
 Dashboard Features
 Sales Overview
 Total Sales KPI
@@ -44,6 +47,8 @@ Power BI Desktop
 Power Query
 DAX
 Microsoft Excel
+
+
 Skills Demonstrated
 Data Cleaning
 Data Transformation
@@ -53,12 +58,16 @@ KPI Development
 Interactive Dashboard Design
 Data Visualization
 Business Insight Generation
+
+
 Key Learnings
 Building interactive dashboards using Power BI.
 Creating meaningful KPIs for business reporting.
 Using Power Query for data transformation.
 Designing effective visualizations for decision-making.
 Applying DAX measures for analytical calculations.
+
+
 Project Outcome
 
 The dashboard enables users to quickly analyze mobile sales performance, identify trends, and make data-driven decisions through interactive visualizations.
