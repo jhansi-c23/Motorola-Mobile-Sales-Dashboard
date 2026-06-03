@@ -11,6 +11,7 @@ Track monthly sales quantity trends.
 Evaluate payment method usage.
 Visualize sales distribution across cities.
 
+
 Key Metrics
 Total Sales: 769M
 Total Quantity Sold: 19K
