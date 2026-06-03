@@ -3,11 +3,6 @@ Project Overview
 
 This Power BI dashboard analyzes mobile sales data and provides interactive insights into sales performance, customer behavior, product trends, and payment preferences.
 
-Dashboard Preview
-
-<img width="1311" height="721" alt="Screenshot 2026-06-03 145911" src="https://github.com/user-attachments/assets/61668548-96eb-4b09-815c-719de5463623" />
-
-
 Objectives
 Analyze overall sales performance.
 Identify top-performing mobile models and brands.
