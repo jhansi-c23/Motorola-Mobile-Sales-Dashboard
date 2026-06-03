@@ -156,14 +156,4 @@ Every project brings me one step closer to becoming a skilled Data Analyst.
 
 ---
 
-## 🔗 Connect With Me
-
-### LinkedIn
-Add your LinkedIn profile link here
-
-### GitHub
-Add your GitHub profile link here
-
----
-
 ⭐ If you found this project useful, consider giving this repository a star!
